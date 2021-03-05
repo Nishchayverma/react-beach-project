@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-beach-project/static/css/main.54d06a0e.chunk.css",
+    "main.js": "/react-beach-project/static/js/main.524f10b6.chunk.js",
+    "main.js.map": "/react-beach-project/static/js/main.524f10b6.chunk.js.map",
+    "runtime-main.js": "/react-beach-project/static/js/runtime-main.7a7c83c3.js",
+    "runtime-main.js.map": "/react-beach-project/static/js/runtime-main.7a7c83c3.js.map",
+    "static/js/2.4ed0d905.chunk.js": "/react-beach-project/static/js/2.4ed0d905.chunk.js",
+    "static/js/2.4ed0d905.chunk.js.map": "/react-beach-project/static/js/2.4ed0d905.chunk.js.map",
+    "index.html": "/react-beach-project/index.html",
+    "static/css/main.54d06a0e.chunk.css.map": "/react-beach-project/static/css/main.54d06a0e.chunk.css.map",
+    "static/js/2.4ed0d905.chunk.js.LICENSE.txt": "/react-beach-project/static/js/2.4ed0d905.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-beach-project/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/react-beach-project/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/react-beach-project/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/react-beach-project/static/media/room-1.05b90599.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a7c83c3.js",
+    "static/js/2.4ed0d905.chunk.js",
+    "static/css/main.54d06a0e.chunk.css",
+    "static/js/main.524f10b6.chunk.js"
+  ]
+}
